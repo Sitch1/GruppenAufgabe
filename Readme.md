@@ -1,1 +1,4 @@
-# My Hobbys
+# Mete's Hobbys
+- Gaming
+- Reisen
+- Lesen
